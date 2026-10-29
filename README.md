@@ -29,6 +29,8 @@
 
 - **[Hypersomnia](https://hypersomnia.io)** - 节奏极快、手感凌厉的俯视角竞技射击游戏，自带像素怀旧味与内置地图编辑器。 [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
+- **[Trick or Take](https://trickortake.com)** - 节奏紧凑的 60 秒万圣节多人糖果大劫案休闲竞技网页游戏，支持实时空间语音，浏览器即开即玩。 [[source]](https://github.com/zicojiao/trick-or-take)
+
 ## 冒险游戏
 
 - **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - 一款僵尸题材冒险逃生室游戏，反转不断。 [[source]](https://github.com/larpon/DeadAscend)
